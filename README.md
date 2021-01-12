@@ -10,15 +10,11 @@ I do however have quite a few contributed repositories where I've messed around 
 
 ## Stats
 
-[![Diediniums's github stats](https://github-readme-stats.vercel.app/api?username=Diedinium&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diedinium&theme=dark&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diedinium&count_private=true&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diedinium&theme=dark&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diedinium&theme=dark&langs_count=7&layout=compact" />
 </a>
 
 
