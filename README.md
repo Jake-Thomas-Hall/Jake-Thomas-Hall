@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Welcome to my profile, I generally use this as a dumping ground for any random projects I work on. Most of these are probably of little value to anyone else, as they are mostly me learning how to (sometimes poorly...) write code.
+Welcome to my profile, I generally use this as a dumping ground for any random projects I work on. Most of these are probably of little value to anyone else, as they are mostly me learning how to program.
 
 ### What type of development do I do?
 
