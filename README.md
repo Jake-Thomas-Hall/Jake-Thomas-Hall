@@ -4,7 +4,7 @@ Welcome to my profile, I generally use this as a dumping ground for any random p
 
 ### What type of development do I do?
 
-As you can see in the below stats, according to this I mostly write JavaScript! This really isn't the case though, as I'm actually a C# developer for the most part, it's just that Github counts Javascript libraries as my own code in lots of projects.
+As you can see in the below stats, according to this I mostly work with C++! This really isn't the case though, as I'm actually a C# developer for the most part, it's just that this is what was taught and used at University.
 
 I do however have quite a few contributed repositories where I've messed around with Javascript, PHP, Java and some other brief experiments like with Python.
 
